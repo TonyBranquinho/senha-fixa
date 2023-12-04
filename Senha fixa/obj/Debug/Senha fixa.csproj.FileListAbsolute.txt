@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Senha fixa\Senha fixa\bin\Debug\Senha fixa.exe.config
+C:\temp\ws-vs2019\Senha fixa\Senha fixa\bin\Debug\Senha fixa.exe
+C:\temp\ws-vs2019\Senha fixa\Senha fixa\bin\Debug\Senha fixa.pdb
+C:\temp\ws-vs2019\Senha fixa\Senha fixa\obj\Debug\Senha fixa.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Senha fixa\Senha fixa\obj\Debug\Senha fixa.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Senha fixa\Senha fixa\obj\Debug\Senha fixa.exe
+C:\temp\ws-vs2019\Senha fixa\Senha fixa\obj\Debug\Senha fixa.pdb
